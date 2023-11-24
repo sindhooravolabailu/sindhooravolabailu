@@ -30,8 +30,8 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sindhooravolabailu&show_icons=true&locale=en&layout=compact" alt="sindhooravolabailu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sindhooravolabailu&show_icons=true&theme=dark&locale=en&layout=compact" alt="sindhooravolabailu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sindhooravolabailu&show_icons=true&locale=en" alt="sindhooravolabailu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sindhooravolabailu&show_icons=true&theme=dark&locale=en" alt="sindhooravolabailu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sindhooravolabailu&" alt="sindhooravolabailu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sindhooravolabailu&theme=dark" alt="sindhooravolabailu" /></p>
