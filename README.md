@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sindhoora Volabailu</h1>
-<h5 align="center">An aspiring data scientist passionate about turning raw data into meaningful insights. Welcome to my GitHub playground where I bring data to life through Power BI, Python , Excel and the exciting realms of Machine Learning (ML) and Deep Learning (DL). Shutterbug Extraordinaire - I'm not just about algorithms, I capture moments through the lens. Photography is my visual poetry, and every click tells a unique story.</h5>
+<h4 align="center">An aspiring data scientist passionate about turning raw data into meaningful insights. Welcome to my GitHub playground where I bring data to life through Power BI, Python , Excel and the exciting realms of Machine Learning (ML) and Deep Learning (DL).<br />
+ Shutterbug Extraordinaire - I'm not just about algorithms, I capture moments through the lens. Photography is my visual poetry, and every click tells a unique story.  
+    <br /> </h4>
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sindhooravolabailu&label=Profile%20views&color=0e75b6&style=flat" alt="sindhooravolabailu" /> </p>
